@@ -1,6 +1,5 @@
 :root {
-    --bg-color: #F1F1F1;
-    --highlight: #EFCB68;
+    --bg-color: #faf8d4;
 }
 
 body {
@@ -13,28 +12,10 @@ a {
     color: inherit;
 }
 
-details > p {
-    margin: inherit;
-}
-
-summary {
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
-}
-
-.highlight {
-    background: var(--highlight);
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
-}
-
 .about {
     position: absolute;
     bottom: 0;
     padding: 1.5rem;
     max-width: 700px;
-}
-
-.contact {
-    padding: 1.5rem;
+    font-size: 0.875em;
 }
