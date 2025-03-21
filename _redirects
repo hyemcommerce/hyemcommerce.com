@@ -1,1 +1,2 @@
-https://darylshaw.studio/    https://hyemcommerce.com/
+https://darylshaw.studio/* https://hyemcommerce.com/:splat 301!
+https://www.darylshaw.studio/* https://hyemcommerce.com/:splat 301!
