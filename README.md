@@ -1,6 +1,6 @@
-# darylshaw.studio
+# hyemcommerce.com
 
-Consultancy site for Daryl Shaw built with [Eleventy](https://www.11ty.dev/).
+Hyem site built with [Eleventy](https://www.11ty.dev/).
 
 ## Installation
 
